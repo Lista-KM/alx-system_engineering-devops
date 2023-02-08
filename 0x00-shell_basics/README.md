@@ -1,1 +1,1 @@
-ls -a : Display current directory contents, including hidden files (starting with .). Use the long format
+ls -F : Display current directory contents long format with users and IDs displayed numericall
