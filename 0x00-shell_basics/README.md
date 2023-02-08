@@ -1,1 +1,1 @@
-ls -F : Display current directory contents long format with users and IDs displayed numericall
+mkdir /tmp/my_first_directory : Create a script that creates a directory named my_first_directory in the /tmp/ directory.
