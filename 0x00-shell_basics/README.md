@@ -1,1 +1,1 @@
-cd : a script that changes the working directory to the user’s home directory.
+ ls-a: Display current directory contents in a long format
