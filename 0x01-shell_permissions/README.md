@@ -1,1 +1,1 @@
-sudo chgrp school hello: Write a script that changes the group owner to school for the file hello.
+mkdir -m 751 dir_alx : Create a script that creates a directory called my_dir with permissions 751 in the working directory.
